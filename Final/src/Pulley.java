@@ -37,7 +37,7 @@ public class Pulley {
             System.out.println("Please input correct value");
             return;
         }
-        if(M3 <= Mmax && M3> Mmin )
+        if(M3 <= Mmax && M3> Mmin  && M3 < M1)
             this.M3 = M3;
         else {
             System.out.println("Please input correct value");
