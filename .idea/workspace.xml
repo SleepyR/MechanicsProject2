@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2e8cb01-3f6d-4622-ad88-0361c21573d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Final/.idea/Final.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Preliminary/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Preliminary/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Preliminary/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Preliminary/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Preliminary/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Final/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Final/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,13 +15,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -37,71 +31,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="MechanicsProject2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MechanicsProject2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MechanicsProject2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MechanicsProject2" type="462c0819:PsiDirectoryNode" />
-              <item name="Final" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MechanicsProject2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MechanicsProject2" type="462c0819:PsiDirectoryNode" />
-              <item name="Final" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MechanicsProject2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MechanicsProject2" type="462c0819:PsiDirectoryNode" />
-              <item name="Final" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MechanicsProject2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MechanicsProject2" type="462c0819:PsiDirectoryNode" />
-              <item name="Final" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MechanicsProject2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MechanicsProject2" type="462c0819:PsiDirectoryNode" />
-              <item name="Preliminary" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MechanicsProject2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MechanicsProject2" type="462c0819:PsiDirectoryNode" />
-              <item name="Preliminary" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MechanicsProject2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MechanicsProject2" type="462c0819:PsiDirectoryNode" />
-              <item name="Preliminary" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MechanicsProject2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MechanicsProject2" type="462c0819:PsiDirectoryNode" />
-              <item name="Preliminary" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -142,16 +74,20 @@
       <workItem from="1584897011748" duration="170000" />
       <workItem from="1584897190398" duration="1584000" />
       <workItem from="1584899366410" duration="38000" />
+      <workItem from="1584899430322" duration="796000" />
+      <workItem from="1586608552635" duration="650000" />
+      <workItem from="1586611807425" duration="34000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1926000" />
+    <option name="totallyTimeSpent" value="3406000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -168,7 +104,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31260228" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
