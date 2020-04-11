@@ -16,7 +16,7 @@ public class Main {
             double a2;
             double a3;
             double T;
-            Pulley system = new Pulley(50,10,10,0.2,0.2,0.3,200);
+            Pulley system = new Pulley(100,20,20,0.5,0.5,0.5,-300);
             double myu1 = system.fric1;
             double myu2 = system.fric2;
             double myu3 = system.fric3;
