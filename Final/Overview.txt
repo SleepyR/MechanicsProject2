@@ -1,0 +1,79 @@
+I tried different cases, changing all parameters. I tried to investigate the cases where one of the objects had dramatically more weight
+than the other 2 ones.
+I paid attention to these cases, because for t=1 I got near 0 results. 
+
+In below cases I chose the biggest M for the 2nd object 
+For positive F-s the change of the 2nd object was near 0
+For negative F the changes of 1st and 2nd object were small, and in this case the 3th object's change was near 0
+----------------------------------------------------------------------------------
+For M1 = 10.0, M2 = 70.0, M3 = 10.0, myu1 = 0.1, myu2 = 0.2, myu3 = 0.1, F = 200.0
+For t = 1
+X coordinate of M1 :-5.835717204740498
+X coordinate of M2 :0.6975888843481813
+X coordinate of M3 :-5.835717204740498
+Y coordinate of M3 :-6.53330608908868
+Y coordinates of M1 and M2 didn't change
+----------------------------------------------------------------------------------
+For M1 = 10.0, M2 = 100.0, M3 = 10.0, myu1 = 0.1, myu2 = 0.2, myu3 = 0.1, F = 100.0
+For t = 1
+X coordinate of M1 :-4.67741935483871
+X coordinate of M2 :0.8958944281524928
+X coordinate of M3 :-4.67741935483871
+Y coordinate of M3 :-5.573313782991202
+Y coordinates of M1 and M2 didn't change
+----------------------------------------------------------------------------------
+For M1 = 10.0, M2 = 100.0, M3 = 10.0, myu1 = 0.1, myu2 = 0.1, myu3 = 0.1, F = 100.0
+For t = 1
+X coordinate of M1 :-4.838709677419354
+X coordinate of M2 :0.4252199413489736
+X coordinate of M3 :-4.838709677419354
+Y coordinate of M3 :-5.263929618768328
+Y coordinates of M1 and M2 didn't change
+----------------------------------------------------------------------------------
+For M1 = 10.0, M2 = 100.0, M3 = 10.0, myu1 = 0.1, myu2 = 0.1, myu3 = 0.1, F = 300.0
+For t = 1
+X coordinate of M1 :-8.064516129032258
+X coordinate of M2 :0.10263929618768315
+X coordinate of M3 :-8.064516129032258
+Y coordinate of M3 :-8.167155425219942
+Y coordinates of M1 and M2 didn't change
+----------------------------------------------------------------------------------
+For M1 = 10.0, M2 = 100.0, M3 = 10.0, myu1 = 0.1, myu2 = 0.1, myu3 = 0.1, F = -300.0
+For t = 1
+X coordinate of M1 :1.6129032258064515
+X coordinate of M2 :1.0703812316715542
+X coordinate of M3 :1.6129032258064515
+Y coordinate of M3 :0.5425219941348974
+Y coordinates of M1 and M2 didn't change
+----------------------------------------------------------------------------------
+For M1 = 10.0, M2 = 100.0, M3 = 10.0, myu1 = 0.1, myu2 = 0.1, myu3 = 0.5, F = -300.0
+For t = 1
+X coordinate of M1 :1.4285714285714282
+X coordinate of M2 :1.103896103896104
+X coordinate of M3 :1.4285714285714282
+Y coordinate of M3 :0.3246753246753249
+Y coordinates of M1 and M2 didn't change
+----------------------------------------------------------------------------------
+
+
+
+In below cases I chose the biggest M for the 3nd object
+I got near 0 results for the 3th object
+1st and 2nd object had the same weight , but for both positive and negative F-s the change of the first was near 0, for 2nd one not
+----------------------------------------------------------------------------------
+For M1 = 10.0, M2 = 10.0, M3 = 100.0, myu1 = 0.1, myu2 = 0.1, myu3 = 0.1, F = -300.0
+For t = 1
+X coordinate of M1 :0.7851239669421488
+X coordinate of M2 :5.37603305785124
+X coordinate of M3 :0.7851239669421488
+Y coordinate of M3 :-4.590909090909091
+Y coordinates of M1 and M2 didn't change
+----------------------------------------------------------------------------------
+For M1 = 10.0, M2 = 10.0, M3 = 100.0, myu1 = 0.1, myu2 = 0.1, myu3 = 0.1, F = 100.0
+For t = 1
+X coordinate of M1 :-0.8677685950413223
+X coordinate of M2 :3.7231404958677685
+X coordinate of M3 :-0.8677685950413223
+Y coordinate of M3 :-4.590909090909091
+Y coordinates of M1 and M2 didn't change
+----------------------------------------------------------------------------------

@@ -1,6 +1,6 @@
 public class Main {
 
-    // Rope  : a1-a2+a3 = 0
+    // Rope  : a1-a2-a3 = 0
     // Hole  : a1x = a3x
 
 
@@ -10,7 +10,7 @@ public class Main {
         public static void main(String[] RTL)
         {
 
-            Pulley system = new Pulley(100,100,100,0.1,0.2,0.1,0);
+            Pulley system = new Pulley(100,10,10,0.1,0.1,0.1,50);
             double myu1 = system.fric1;
             double myu2 = system.fric2;
             double myu3 = system.fric3;
