@@ -10,7 +10,7 @@ public class Main {
         public static void main(String[] RTL)
         {
 
-            Pulley system = new Pulley(100,20,20,0.5,0.5,0.5,200);
+            Pulley system = new Pulley(100,100,100,0.1,0.2,0.1,0);
             double myu1 = system.fric1;
             double myu2 = system.fric2;
             double myu3 = system.fric3;
@@ -18,7 +18,13 @@ public class Main {
             double M2 = system.M2;
             double M3 = system.M3;
             double F = system.F;
-            coordinates(M1,M2,M3,myu1,myu2,myu3,F,10);
+            System.out.println("For M1 = "+M1+", M2 = "+M2 + ", M3 = "+ M3+", myu1 = "+myu1+", myu2 = "+myu2 + ", myu3 = "+myu3+", F = " + F);
+            for (int t = 1;t<=100;t+=10)
+            {
+                System.out.println("For t = "+ t);
+                coordinates(M1,M2,M3,myu1,myu2,myu3,F,t);
+
+            }
 
 
         }
