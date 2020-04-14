@@ -55,6 +55,6 @@ public class Main {
             System.out.println("X coordinate of M2 :"+x2);
             System.out.println("X coordinate of M3 :"+x3);
             System.out.println("Y coordinate of M3 :"+y3);
-            System.out.println("Y coordinates of M1 and M1 didn't change");
+            System.out.println("Y coordinates of M1 and M2 didn't change");
         }
 }

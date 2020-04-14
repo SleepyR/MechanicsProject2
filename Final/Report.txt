@@ -7,61 +7,61 @@ X coordinate of M1 :-3.0701754385964914
 X coordinate of M2 :1.4473684210526316
 X coordinate of M3 :-3.0701754385964914
 Y coordinate of M3 :-4.517543859649122
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 11
 X coordinate of M1 :-371.49122807017545
 X coordinate of M2 :175.13157894736844
 X coordinate of M3 :-371.49122807017545
 Y coordinate of M3 :-546.6228070175439
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 21
 X coordinate of M1 :-1353.9473684210527
 X coordinate of M2 :638.2894736842105
 X coordinate of M3 :-1353.9473684210527
 Y coordinate of M3 :-1992.2368421052631
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 31
 X coordinate of M1 :-2950.438596491228
 X coordinate of M2 :1390.921052631579
 X coordinate of M3 :-2950.438596491228
 Y coordinate of M3 :-4341.359649122806
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 41
 X coordinate of M1 :-5160.964912280702
 X coordinate of M2 :2433.0263157894738
 X coordinate of M3 :-5160.964912280702
 Y coordinate of M3 :-7593.991228070176
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 51
 X coordinate of M1 :-7985.526315789474
 X coordinate of M2 :3764.605263157895
 X coordinate of M3 :-7985.526315789474
 Y coordinate of M3 :-11750.131578947367
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 61
 X coordinate of M1 :-11424.122807017544
 X coordinate of M2 :5385.6578947368425
 X coordinate of M3 :-11424.122807017544
 Y coordinate of M3 :-16809.780701754386
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 71
 X coordinate of M1 :-15476.754385964914
 X coordinate of M2 :7296.184210526317
 X coordinate of M3 :-15476.754385964914
 Y coordinate of M3 :-22772.938596491225
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 81
 X coordinate of M1 :-20143.42105263158
 X coordinate of M2 :9496.184210526317
 X coordinate of M3 :-20143.42105263158
 Y coordinate of M3 :-29639.60526315789
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 91
 X coordinate of M1 :-25424.122807017546
 X coordinate of M2 :11985.657894736843
 X coordinate of M3 :-25424.122807017546
 Y coordinate of M3 :-37409.78070175438
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 
 
 -------------------------------------------------------------------------------------
@@ -73,61 +73,61 @@ X coordinate of M1 :-3.8888888888888884
 X coordinate of M2 :1.9444444444444446
 X coordinate of M3 :-3.8888888888888884
 Y coordinate of M3 :-5.833333333333333
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 11
 X coordinate of M1 :-470.5555555555555
 X coordinate of M2 :235.27777777777783
 X coordinate of M3 :-470.5555555555555
 Y coordinate of M3 :-705.8333333333333
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 21
 X coordinate of M1 :-1714.9999999999998
 X coordinate of M2 :857.5
 X coordinate of M3 :-1714.9999999999998
 Y coordinate of M3 :-2572.5
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 31
 X coordinate of M1 :-3737.2222222222217
 X coordinate of M2 :1868.6111111111113
 X coordinate of M3 :-3737.2222222222217
 Y coordinate of M3 :-5605.833333333333
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 41
 X coordinate of M1 :-6537.222222222222
 X coordinate of M2 :3268.6111111111113
 X coordinate of M3 :-6537.222222222222
 Y coordinate of M3 :-9805.833333333332
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 51
 X coordinate of M1 :-10114.999999999998
 X coordinate of M2 :5057.5
 X coordinate of M3 :-10114.999999999998
 Y coordinate of M3 :-15172.5
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 61
 X coordinate of M1 :-14470.555555555555
 X coordinate of M2 :7235.277777777779
 X coordinate of M3 :-14470.555555555555
 Y coordinate of M3 :-21705.833333333332
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 71
 X coordinate of M1 :-19603.888888888887
 X coordinate of M2 :9801.944444444445
 X coordinate of M3 :-19603.888888888887
 Y coordinate of M3 :-29405.833333333332
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 81
 X coordinate of M1 :-25514.999999999996
 X coordinate of M2 :12757.500000000002
 X coordinate of M3 :-25514.999999999996
 Y coordinate of M3 :-38272.5
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 91
 X coordinate of M1 :-32203.888888888887
 X coordinate of M2 :16101.944444444445
 X coordinate of M3 :-32203.888888888887
 Y coordinate of M3 :-48305.83333333333
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 
 
 -------------------------------------------------------------------------------------
@@ -139,61 +139,61 @@ X coordinate of M1 :-2.4534161490683233
 X coordinate of M2 :1.9409937888198758
 X coordinate of M3 :-2.4534161490683233
 Y coordinate of M3 :-4.394409937888199
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 11
 X coordinate of M1 :-296.86335403726713
 X coordinate of M2 :234.86024844720498
 X coordinate of M3 :-296.86335403726713
 Y coordinate of M3 :-531.723602484472
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 21
 X coordinate of M1 :-1081.9565217391305
 X coordinate of M2 :855.9782608695652
 X coordinate of M3 :-1081.9565217391305
 Y coordinate of M3 :-1937.9347826086955
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 31
 X coordinate of M1 :-2357.732919254659
 X coordinate of M2 :1865.2950310559008
 X coordinate of M3 :-2357.732919254659
 Y coordinate of M3 :-4223.0279503105585
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 41
 X coordinate of M1 :-4124.192546583851
 X coordinate of M2 :3262.8105590062114
 X coordinate of M3 :-4124.192546583851
 Y coordinate of M3 :-7387.003105590063
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 51
 X coordinate of M1 :-6381.335403726709
 X coordinate of M2 :5048.524844720497
 X coordinate of M3 :-6381.335403726709
 Y coordinate of M3 :-11429.860248447205
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 61
 X coordinate of M1 :-9129.161490683231
 X coordinate of M2 :7222.437888198758
 X coordinate of M3 :-9129.161490683231
 Y coordinate of M3 :-16351.599378881989
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 71
 X coordinate of M1 :-12367.670807453416
 X coordinate of M2 :9784.549689440993
 X coordinate of M3 :-12367.670807453416
 Y coordinate of M3 :-22152.22049689441
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 81
 X coordinate of M1 :-16096.863354037268
 X coordinate of M2 :12734.860248447205
 X coordinate of M3 :-16096.863354037268
 Y coordinate of M3 :-28831.72360248447
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 91
 X coordinate of M1 :-20316.739130434784
 X coordinate of M2 :16073.36956521739
 X coordinate of M3 :-20316.739130434784
 Y coordinate of M3 :-36390.10869565217
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 
 -------------------------------------------------------------------------------------
 
@@ -203,61 +203,61 @@ X coordinate of M1 :-2.7876106194690267
 X coordinate of M2 :2.2168141592920354
 X coordinate of M3 :-2.7876106194690267
 Y coordinate of M3 :-5.004424778761062
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 11
 X coordinate of M1 :-337.3008849557522
 X coordinate of M2 :268.2345132743363
 X coordinate of M3 :-337.3008849557522
 Y coordinate of M3 :-605.5353982300885
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 21
 X coordinate of M1 :-1229.3362831858408
 X coordinate of M2 :977.6150442477875
 X coordinate of M3 :-1229.3362831858408
 Y coordinate of M3 :-2206.9513274336286
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 31
 X coordinate of M1 :-2678.893805309735
 X coordinate of M2 :2130.358407079646
 X coordinate of M3 :-2678.893805309735
 Y coordinate of M3 :-4809.2522123893805
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 41
 X coordinate of M1 :-4685.973451327434
 X coordinate of M2 :3726.4646017699115
 X coordinate of M3 :-4685.973451327434
 Y coordinate of M3 :-8412.438053097345
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 51
 X coordinate of M1 :-7250.575221238939
 X coordinate of M2 :5765.933628318584
 X coordinate of M3 :-7250.575221238939
 Y coordinate of M3 :-13016.508849557522
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 61
 X coordinate of M1 :-10372.699115044248
 X coordinate of M2 :8248.765486725664
 X coordinate of M3 :-10372.699115044248
 Y coordinate of M3 :-18621.464601769912
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 71
 X coordinate of M1 :-14052.345132743363
 X coordinate of M2 :11174.960176991151
 X coordinate of M3 :-14052.345132743363
 Y coordinate of M3 :-25227.305309734515
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 81
 X coordinate of M1 :-18289.513274336285
 X coordinate of M2 :14544.517699115046
 X coordinate of M3 :-18289.513274336285
 Y coordinate of M3 :-32834.03097345133
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 91
 X coordinate of M1 :-23084.20353982301
 X coordinate of M2 :18357.438053097343
 X coordinate of M3 :-23084.20353982301
 Y coordinate of M3 :-41441.64159292036
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 
 
 -------------------------------------------------------------------------------------
@@ -268,61 +268,61 @@ X coordinate of M1 :-2.0910632355874723
 X coordinate of M2 :1.7999202074606024
 X coordinate of M3 :-2.0910632355874723
 Y coordinate of M3 :-3.890983443048076
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 11
 X coordinate of M1 :-253.01865150608415
 X coordinate of M2 :217.79034510273289
 X coordinate of M3 :-253.01865150608415
 Y coordinate of M3 :-470.8089966088172
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 21
 X coordinate of M1 :-922.1588868940753
 X coordinate of M2 :793.7648114901257
 X coordinate of M3 :-922.1588868940753
 Y coordinate of M3 :-1715.9236983842015
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 31
 X coordinate of M1 :-2009.511769399561
 X coordinate of M2 :1729.723319369639
 X coordinate of M3 :-2009.511769399561
 Y coordinate of M3 :-3739.235088769201
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 41
 X coordinate of M1 :-3515.077299022541
 X coordinate of M2 :3025.665868741273
 X coordinate of M3 :-3515.077299022541
 Y coordinate of M3 :-6540.743167763815
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 51
 X coordinate of M1 :-5438.855475763015
 X coordinate of M2 :4681.592459605026
 X coordinate of M3 :-5438.855475763015
 Y coordinate of M3 :-10120.447935368045
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 61
 X coordinate of M1 :-7780.846299620984
 X coordinate of M2 :6697.503091960902
 X coordinate of M3 :-7780.846299620984
 Y coordinate of M3 :-14478.34939158189
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 71
 X coordinate of M1 :-10541.049770596448
 X coordinate of M2 :9073.397765808897
 X coordinate of M3 :-10541.049770596448
 Y coordinate of M3 :-19614.44753640535
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 81
 X coordinate of M1 :-13719.465888689405
 X coordinate of M2 :11809.276481149012
 X coordinate of M3 :-13719.465888689405
 Y coordinate of M3 :-25528.742369838423
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 91
 X coordinate of M1 :-17316.094653899858
 X coordinate of M2 :14905.13923798125
 X coordinate of M3 :-17316.094653899858
 Y coordinate of M3 :-32221.233891881115
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 
 -------------------------------------------------------------------------------------
 
@@ -332,61 +332,61 @@ X coordinate of M1 :-1.7427701674277016
 X coordinate of M2 :2.487823439878234
 X coordinate of M3 :-1.7427701674277016
 Y coordinate of M3 :-4.230593607305937
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 11
 X coordinate of M1 :-210.8751902587519
 X coordinate of M2 :301.0266362252663
 X coordinate of M3 :-210.8751902587519
 Y coordinate of M3 :-511.90182648401833
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 21
 X coordinate of M1 :-768.5616438356165
 X coordinate of M2 :1097.130136986301
 X coordinate of M3 :-768.5616438356165
 Y coordinate of M3 :-1865.6917808219182
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 31
 X coordinate of M1 :-1674.8021308980212
 X coordinate of M2 :2390.7983257229826
 X coordinate of M3 :-1674.8021308980212
 Y coordinate of M3 :-4065.6004566210054
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 41
 X coordinate of M1 :-2929.596651445966
 X coordinate of M2 :4182.031202435312
 X coordinate of M3 :-2929.596651445966
 Y coordinate of M3 :-7111.62785388128
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 51
 X coordinate of M1 :-4532.945205479452
 X coordinate of M2 :6470.8287671232865
 X coordinate of M3 :-4532.945205479452
 Y coordinate of M3 :-11003.773972602743
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 61
 X coordinate of M1 :-6484.847792998477
 X coordinate of M2 :9257.19101978691
 X coordinate of M3 :-6484.847792998477
 Y coordinate of M3 :-15742.038812785391
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 71
 X coordinate of M1 :-8785.304414003043
 X coordinate of M2 :12541.117960426176
 X coordinate of M3 :-8785.304414003043
 Y coordinate of M3 :-21326.422374429225
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 81
 X coordinate of M1 :-11434.31506849315
 X coordinate of M2 :16322.609589041094
 X coordinate of M3 :-11434.31506849315
 Y coordinate of M3 :-27756.92465753425
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 91
 X coordinate of M1 :-14431.879756468797
 X coordinate of M2 :20601.665905631653
 X coordinate of M3 :-14431.879756468797
 Y coordinate of M3 :-35033.54566210046
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 
 -------------------------------------------------------------------------------------
 
@@ -397,61 +397,61 @@ X coordinate of M1 :-5.835717204740498
 X coordinate of M2 :0.6975888843481813
 X coordinate of M3 :-5.835717204740498
 Y coordinate of M3 :-6.53330608908868
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 11
 X coordinate of M1 :-706.1217817736002
 X coordinate of M2 :84.40825500612993
 X coordinate of M3 :-706.1217817736002
 Y coordinate of M3 :-790.5300367797303
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 21
 X coordinate of M1 :-2573.5512872905597
 X coordinate of M2 :307.63669799754797
 X coordinate of M3 :-2573.5512872905597
 Y coordinate of M3 :-2881.187985288108
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 31
 X coordinate of M1 :-5608.124233755619
 X coordinate of M2 :670.3829178586022
 X coordinate of M3 :-5608.124233755619
 Y coordinate of M3 :-6278.507151614222
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 41
 X coordinate of M1 :-9809.840621168778
 X coordinate of M2 :1172.646914589293
 X coordinate of M3 :-9809.840621168778
 Y coordinate of M3 :-10982.487535758071
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 51
 X coordinate of M1 :-15178.700449530035
 X coordinate of M2 :1814.4286881896198
 X coordinate of M3 :-15178.700449530035
 Y coordinate of M3 :-16993.129137719658
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 61
 X coordinate of M1 :-21714.703718839395
 X coordinate of M2 :2595.728238659583
 X coordinate of M3 :-21714.703718839395
 Y coordinate of M3 :-24310.43195749898
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 71
 X coordinate of M1 :-29417.850429096852
 X coordinate of M2 :3516.545565999182
 X coordinate of M3 :-29417.850429096852
 Y coordinate of M3 :-32934.395995096034
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 81
 X coordinate of M1 :-38288.14058030241
 X coordinate of M2 :4576.8806702084175
 X coordinate of M3 :-38288.14058030241
 Y coordinate of M3 :-42865.02125051083
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 91
 X coordinate of M1 :-48325.57417245606
 X coordinate of M2 :5776.73355128729
 X coordinate of M3 :-48325.57417245606
 Y coordinate of M3 :-54102.30772374336
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 
 
 -------------------------------------------------------------------------------------
@@ -462,61 +462,61 @@ X coordinate of M1 :-1.5702479338842976
 X coordinate of M2 :1.2066115702479339
 X coordinate of M3 :-1.5702479338842976
 Y coordinate of M3 :-2.776859504132232
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 11
 X coordinate of M1 :-190.0
 X coordinate of M2 :146.0
 X coordinate of M3 :-190.0
 Y coordinate of M3 :-336.00000000000006
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 21
 X coordinate of M1 :-692.4793388429753
 X coordinate of M2 :532.1157024793388
 X coordinate of M3 :-692.4793388429753
 Y coordinate of M3 :-1224.5950413223143
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 31
 X coordinate of M1 :-1509.00826446281
 X coordinate of M2 :1159.5537190082644
 X coordinate of M3 :-1509.00826446281
 Y coordinate of M3 :-2668.5619834710747
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 41
 X coordinate of M1 :-2639.586776859504
 X coordinate of M2 :2028.314049586777
 X coordinate of M3 :-2639.586776859504
 Y coordinate of M3 :-4667.900826446282
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 51
 X coordinate of M1 :-4084.214876033058
 X coordinate of M2 :3138.396694214876
 X coordinate of M3 :-4084.214876033058
 Y coordinate of M3 :-7222.611570247935
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 61
 X coordinate of M1 :-5842.892561983471
 X coordinate of M2 :4489.801652892562
 X coordinate of M3 :-5842.892561983471
 Y coordinate of M3 :-10332.694214876035
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 71
 X coordinate of M1 :-7915.619834710744
 X coordinate of M2 :6082.528925619835
 X coordinate of M3 :-7915.619834710744
 Y coordinate of M3 :-13998.148760330581
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 81
 X coordinate of M1 :-10302.396694214876
 X coordinate of M2 :7916.578512396693
 X coordinate of M3 :-10302.396694214876
 Y coordinate of M3 :-18218.975206611573
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 91
 X coordinate of M1 :-13003.22314049587
 X coordinate of M2 :9991.95041322314
 X coordinate of M3 :-13003.22314049587
 Y coordinate of M3 :-22995.17355371901
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 
 
 -------------------------------------------------------------------------------------
@@ -528,61 +528,61 @@ X coordinate of M1 :-1.15702479338843
 X coordinate of M2 :1.2479338842975207
 X coordinate of M3 :-1.15702479338843
 Y coordinate of M3 :-2.4049586776859506
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 11
 X coordinate of M1 :-140.0
 X coordinate of M2 :151.0
 X coordinate of M3 :-140.0
 Y coordinate of M3 :-291.0
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 21
 X coordinate of M1 :-510.24793388429754
 X coordinate of M2 :550.3388429752067
 X coordinate of M3 :-510.24793388429754
 Y coordinate of M3 :-1060.5867768595042
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 31
 X coordinate of M1 :-1111.9008264462811
 X coordinate of M2 :1199.2644628099174
 X coordinate of M3 :-1111.9008264462811
 Y coordinate of M3 :-2311.1652892561983
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 41
 X coordinate of M1 :-1944.9586776859505
 X coordinate of M2 :2097.7768595041325
 X coordinate of M3 :-1944.9586776859505
 Y coordinate of M3 :-4042.735537190083
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 51
 X coordinate of M1 :-3009.421487603306
 X coordinate of M2 :3245.8760330578516
 X coordinate of M3 :-3009.421487603306
 Y coordinate of M3 :-6255.297520661157
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 61
 X coordinate of M1 :-4305.289256198347
 X coordinate of M2 :4643.561983471075
 X coordinate of M3 :-4305.289256198347
 Y coordinate of M3 :-8948.851239669422
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 71
 X coordinate of M1 :-5832.561983471075
 X coordinate of M2 :6290.834710743801
 X coordinate of M3 :-5832.561983471075
 Y coordinate of M3 :-12123.396694214876
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 81
 X coordinate of M1 :-7591.239669421488
 X coordinate of M2 :8187.694214876034
 X coordinate of M3 :-7591.239669421488
 Y coordinate of M3 :-15778.933884297523
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 For t = 91
 X coordinate of M1 :-9581.322314049588
 X coordinate of M2 :10334.140495867769
 X coordinate of M3 :-9581.322314049588
 Y coordinate of M3 :-19915.462809917357
-Y coordinates of M1 and M1 didn't change
+Y coordinates of M1 and M2 didn't change
 
 
 -------------------------------------------------------------------------------------
